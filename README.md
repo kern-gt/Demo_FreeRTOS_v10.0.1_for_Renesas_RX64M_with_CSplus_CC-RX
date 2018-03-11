@@ -1,6 +1,6 @@
 # FreeRTOS Ver10.0.1 DemoProject for Renesas RX64M (CS+,CC-RX)
 
-## LED点滅サンプル
+## LED点滅サンプルVer1.00
 　このデモはFreeRTOSv10.0.1をRenesas RX64Mマイコン用に移植したものです。2つのポートに接続されたLEDをそれぞれタスクで動作させる簡単なサンプルです。
  
  　使用しているハードウェアはメカトロ工房様で販売されている[「ルネサスRX64M小型マイコンボード」](http://www.mechatro-kobo.com/shopdetail/000000000041/)を使用しています。
