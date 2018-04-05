@@ -62,7 +62,7 @@ void vApplicationIdleHook( void )
 
 void vApplicationTickHook( void )
 {
-	/*pass*/
+	/* pass */
 }
 /*-----------------------------------------------------------*/
 
